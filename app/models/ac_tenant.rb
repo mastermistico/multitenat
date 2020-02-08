@@ -1,0 +1,2 @@
+class AcTenant < ApplicationRecord
+end
