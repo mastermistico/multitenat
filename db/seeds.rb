@@ -7,5 +7,5 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 # Customer.create(fist_name: 'pepe', last_name: 'pepon')
 # AcTenant.create(name: 'hola')
-@cus = Customer.find(1)
-@cus.destroy
+# @cus = Customer.find(1)
+# @cus.destroy
